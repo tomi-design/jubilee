@@ -45,12 +45,6 @@ header .headline {
 	width: 80%;
 }
 
-/*header .half-width {
-	flex-direction: row;
-	justify-content: center;
-	align-items: center;
-}*/
-
 header h1 {
 	font-family: 'Lora', sans-serif;
 	font-weight: bolder;
