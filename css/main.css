@@ -294,7 +294,14 @@ main {
 
 @media only screen and (min-width: 1200px) {
 
+	nav ul li a {
+		transition-duration: 250ms;
+	}
+	nav ul li a:hover {
+		color:rgb(173, 173, 173);
+	}
 
+	
 	header .content-wrapper {
 		justify-content: space-between;
 	}
@@ -356,5 +363,9 @@ main {
 
 	#contact ul {
 		padding-left: 50px;
+	}
+
+	#contact-info ul img:hover {
+		
 	}
 }
